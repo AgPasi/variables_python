@@ -26,3 +26,5 @@ numero_2 = 7
 suma = numero_1 + numero_2
 resta = numero_1 - numero_2
 
+print(suma)
+print(resta)
